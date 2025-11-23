@@ -35,6 +35,7 @@ namespace WPFAndMVVM1.ViewModel
             }
         }
 
+
         public event PropertyChangedEventHandler PropertyChanged;
 
         protected void OnPropertyChanged(string propertyName)
